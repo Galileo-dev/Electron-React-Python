@@ -1,6 +1,7 @@
-### 🙋‍♂️ Made by [@thekitze](https://twitter.com/thekitze)  
+### 🙋‍♂️ Made by [@thekitze](https://twitter.com/thekitze) ... Many Thanks😁 
+### Edited by [Galileo-dev](https://github.com/Galileo-dev)
 
-### Other projects:
+### Please check out [@thekitz](https://twitter.com/thekitze) other projects:
 - 🏫 [React Academy](https://reactacademy.io) - Interactive React and GraphQL workshops
 - 💌 [Twizzy](https://twizzy.app) - A standalone app for Twitter DM
 - 💻 [Sizzy](https://sizzy.co) - A tool for testing responsive design on multiple devices at once
@@ -17,4 +18,4 @@ An example of using create-react-app and Electron.
 ```yarn build``` will build the React app and package it along the Electron app.
 
 ## Read more
-You can read more about it in [my Medium article](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3).
+Check out [kitze's Medium article](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3).
